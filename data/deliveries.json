@@ -1,0 +1,5 @@
+[
+  {"package_id": "P001", "status": "In transit", "last_location": "Tunis", "ETA": "2025-11-25 14:00"},
+  {"package_id": "P002", "status": "Delivered", "last_location": "Sfax", "ETA": "2025-11-20 10:00"},
+  {"package_id": "P003", "status": "Out for delivery", "last_location": "Sousse", "ETA": "2025-11-23 18:00"}
+]
